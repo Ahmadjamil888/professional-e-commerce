@@ -49,7 +49,7 @@ To set up this project on your local machine, follow these steps:
 git clone https://github.com/Ahmadjamil888/professional-e-commerce.git
 
 # Navigate to the project directory
-cd professional-e-commerce
+cd laravel
 
 # Install backend dependencies
 composer install
